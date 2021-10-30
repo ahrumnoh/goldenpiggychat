@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/goldenpiggychat/static/css/main.459d4e05.chunk.css",
+    "main.js": "/goldenpiggychat/static/js/main.5dd8a4e6.chunk.js",
+    "main.js.map": "/goldenpiggychat/static/js/main.5dd8a4e6.chunk.js.map",
+    "runtime-main.js": "/goldenpiggychat/static/js/runtime-main.9b880746.js",
+    "runtime-main.js.map": "/goldenpiggychat/static/js/runtime-main.9b880746.js.map",
+    "static/js/2.39ce38bc.chunk.js": "/goldenpiggychat/static/js/2.39ce38bc.chunk.js",
+    "static/js/2.39ce38bc.chunk.js.map": "/goldenpiggychat/static/js/2.39ce38bc.chunk.js.map",
+    "index.html": "/goldenpiggychat/index.html",
+    "precache-manifest.5d922118dabe163c5a81bd95e645d0ee.js": "/goldenpiggychat/precache-manifest.5d922118dabe163c5a81bd95e645d0ee.js",
+    "service-worker.js": "/goldenpiggychat/service-worker.js",
+    "static/css/main.459d4e05.chunk.css.map": "/goldenpiggychat/static/css/main.459d4e05.chunk.css.map",
+    "static/js/2.39ce38bc.chunk.js.LICENSE.txt": "/goldenpiggychat/static/js/2.39ce38bc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/goldenpiggychat/static/media/executium-4KJJezDyo3M-unsplash.abbd2e0e.ico"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b880746.js",
+    "static/js/2.39ce38bc.chunk.js",
+    "static/css/main.459d4e05.chunk.css",
+    "static/js/main.5dd8a4e6.chunk.js"
+  ]
+}
